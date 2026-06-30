@@ -1,34 +1,37 @@
-# ML4W Wallpaper Collection
+# 🌌 My Personal Linux Wallpapers Collection
 
-My personal wallpaper collection that fits best to tiling window managers.
+[![Linux](https://img.shields.io/badge/OS-Linux-unassigned?style=for-the-badge&logo=linux&logoColor=F5F5F5&color=24292e)](https://www.kernel.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-![image](https://github.com/user-attachments/assets/9f94272d-7278-4599-801c-8b104ca746c8)
+> **Deskripsi:** Repositori publik yang berisi kumpulan wallpaper pilihan berkualitas tinggi (HD/4K) untuk kustomisasi desktop Linux (_desktop ricing_). Sangat cocok dipadukan dengan Tiling Window Manager (seperti Hyprland, i3wm, Sway) maupun Desktop Environment modern.
 
-## Installation
+---
 
-Clone the directory from your home directory.
+## 📸 Galeri & Pratinjau Wallpaper
 
+Berikut adalah daftar wallpaper yang tersedia di dalam repositori ini. Jalur gambar di bawah ini menggunakan tautan relatif yang akan langsung menampilkan gambar begitu kamu memasukkannya ke dalam folder `wallpapers/`:
+
+| Nama Wallpaper      |                             Pratinjau (Preview)                              |     Resolusi / Tema      |
+| :------------------ | :--------------------------------------------------------------------------: | :----------------------: |
+| **Futuristic Blue** | <img src="wallpapers/futuristic-blue.png" width="250" alt="Futuristic Blue"> |  4K / Cyberpunk / Blue   |
+| **Minimalist Dark** |  <img src="wallpapers/minimal-dark.png" width="250" alt="Minimalist Dark">   | 1080p / Minimalis / Dark |
+| **Anime Aesthetic** | <img src="wallpapers/anime-aesthetic.png" width="250" alt="Anime Aesthetic"> |   4K / Anime / Nature    |
+| **Retro Wave**      |      <img src="wallpapers/retro-wave.png" width="250" alt="Retro Wave">      | 1080p / Synthwave / Neon |
+
+---
+
+## 🚀 Panduan Penggunaan, Struktur File, dan Informasi Kontak
+
+Untuk menggunakan repositori ini, kamu bisa langsung mengunduh seluruh koleksi wallpaper ke komputer lokal dengan menjalankan perintah `git clone https://github.com/goblock1938/linux-wallpapers.git` lalu masuk ke foldernya menggunakan perintah `cd linux-wallpapers`.
+
+Agar skrip pengatur wallpaper kamu (seperti `swww`, `feh`, atau `hyprpaper`) berjalan lancar dan semua gambar pada tabel pratinjau di atas tampil dengan benar, pastikan seluruh file gambar disimpan di dalam folder `wallpapers/` dengan struktur internal sebagai berikut:
+
+```text
+.
+├── README.md
+└── wallpapers/
+    ├── futuristic-blue.png
+    ├── minimal-dark.png
+    ├── anime-aesthetic.png
+    └── retro-wave.png
 ```
-cd ~/Pictures # You can also choose a different location
-git clone --depth=1 https://github.com/mylinuxforwork/wallpaper.git
-cd wallpaper/
-```
-If you are using the ML4W Dotfiles for Hyprland, you can select the the new wallpaper folder with Waypaper.
-
-## Update
-
-You can update the wallpapers with
-
-```
-cd ~/Pictures/wallpaper
-git pull
-```
-## Wallpaper Resources
-
-Great download resources for wallpapers are:
-
-https://www.reddit.com/r/wallpapers/
-
-https://4kwallpapers.com
-
-https://buymeacoffee.com/wallsbyjfl/posts/11032
