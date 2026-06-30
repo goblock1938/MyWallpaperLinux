@@ -11,12 +11,12 @@
 
 Berikut adalah daftar wallpaper yang tersedia di dalam repositori ini. Jalur gambar di bawah ini menggunakan tautan relatif yang akan langsung menampilkan gambar begitu kamu memasukkannya ke dalam folder `wallpapers/`:
 
-| Nama Wallpaper      |                             Pratinjau (Preview)                              |     Resolusi / Tema      |
-| :------------------ | :--------------------------------------------------------------------------: | :----------------------: |
-| **Futuristic Blue** | <img src="wallpapers/futuristic-blue.png" width="250" alt="Futuristic Blue"> |  4K / Cyberpunk / Blue   |
-| **Minimalist Dark** |  <img src="wallpapers/minimal-dark.png" width="250" alt="Minimalist Dark">   | 1080p / Minimalis / Dark |
-| **Anime Aesthetic** | <img src="wallpapers/anime-aesthetic.png" width="250" alt="Anime Aesthetic"> |   4K / Anime / Nature    |
-| **Retro Wave**      |      <img src="wallpapers/retro-wave.png" width="250" alt="Retro Wave">      | 1080p / Synthwave / Neon |
+| Nama Wallpaper          |                        Pratinjau (Preview)                         |     Resolusi / Tema      |
+| :---------------------- | :----------------------------------------------------------------: | :----------------------: |
+| **Blazblue phenomenon** |       <img src="CAM.jpg" width="250" alt="Futuristic Blue">        |  4K / Cyberpunk / Blue   |
+| **Hello, ACER**         |   <img src="Hello, ACER.jpg" width="250" alt="Minimalist Dark">    | 1080p / Minimalis / Dark |
+| **Anime Aesthetic**     | <img src="anime-aesthetic.png" width="250" alt="Anime Aesthetic">  |   4K / Anime / Nature    |
+| **Retro Wave**          | <img src="wallpapers/retro-wave.png" width="250" alt="Retro Wave"> | 1080p / Synthwave / Neon |
 
 ---
 
@@ -32,6 +32,7 @@ Agar skrip pengatur wallpaper kamu (seperti `swww`, `feh`, atau `hyprpaper`) ber
 └── wallpapers/
     ├── futuristic-blue.png
     ├── minimal-dark.png
+    ├── retro-wave.png
     ├── anime-aesthetic.png
-    └── retro-wave.png
+    └── . . . . . . . .png
 ```
