@@ -11,12 +11,12 @@
 
 Berikut adalah daftar wallpaper yang tersedia di dalam repositori ini. Jalur gambar di bawah ini menggunakan tautan relatif yang akan langsung menampilkan gambar begitu kamu memasukkannya ke dalam folder `wallpapers/`:
 
-| Nama Wallpaper         |                        Preview                        |    Resolusi / Tema    |
-| :--------------------- | :---------------------------------------------------: | :-------------------: |
-| **CAM**                | <img src="CAM.jpg" width="250" alt="Futuristic Mono"> | 4K / Cyberpunk / Mono |
-| **Evangelion Rei(10)** |    <img src="10.jpg" width="250" alt="Close Blue">    |   4K / Anime / Blue   |
-| **Expanse**            |      <img src="expanse.jpg" width="250" alt="">       |  4K / Space / Nature  |
-| **Moonlight**          |  <img src="moonlight.jpg" width="250" alt="Nature">   |  4K / Nature / Moon   |
+| Nama Wallpaper     |                           Preview                           |    Resolusi / Tema    |
+| :----------------- | :---------------------------------------------------------: | :-------------------: |
+| **CAM**            |    <img src="CAM.jpg" width="250" alt="Futuristic Mono">    | 4K / Cyberpunk / Mono |
+| **Evangelion Rei** | <img src="Evangelion rei.jpg" width="250" alt="Close Blue"> |   4K / Anime / Blue   |
+| **Expanse**        |         <img src="expanse.jpg" width="250" alt="">          |  4K / Space / Nature  |
+| **Moonlight**      |     <img src="moonlight.jpg" width="250" alt="Nature">      |  4K / Nature / Moon   |
 
 ---
 
