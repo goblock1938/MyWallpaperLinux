@@ -20,13 +20,13 @@ Berikut adalah daftar wallpaper yang tersedia di dalam repositori ini. Jalur gam
 
 ---
 
-## 🚀 Panduan Penggunaan, Struktur File, dan Informasi Kontak
+## 🚀 Panduan Penggunaan, dan Struktur File
 
 Untuk menggunakan repositori ini, kamu bisa jalankan perintah berikut :
 
 ```bash
 # Clone repo githubnya
-git clone https://github.com/goblock1938/MyWallpaperLinux.git 
+git clone https://github.com/goblock1938/MyWallpaperLinux.git
 
 # masuk kedalam foldernya
 cd MyWallpaperLinux
