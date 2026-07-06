@@ -11,12 +11,12 @@
 
 Berikut adalah daftar wallpaper yang tersedia di dalam repositori ini. Jalur gambar di bawah ini menggunakan tautan relatif yang akan langsung menampilkan gambar begitu kamu memasukkannya ke dalam folder `wallpapers/`:
 
-| Nama Wallpaper          |                        Pratinjau (Preview)                         |     Resolusi / Tema      |
-| :---------------------- | :----------------------------------------------------------------: | :----------------------: |
-| **Blazblue phenomenon** |       <img src="CAM.jpg" width="250" alt="Futuristic Blue">        |  4K / Cyberpunk / Blue   |
-| **Hello, ACER**         |   <img src="Hello, ACER.jpg" width="250" alt="Minimalist Dark">    | 1080p / Minimalis / Dark |
-| **Anime Aesthetic**     | <img src="anime-aesthetic.png" width="250" alt="Anime Aesthetic">  |   4K / Anime / Nature    |
-| **Retro Wave**          | <img src="wallpapers/retro-wave.png" width="250" alt="Retro Wave"> | 1080p / Synthwave / Neon |
+| Nama Wallpaper          |                        Pratinjau (Preview)                        |     Resolusi / Tema      |
+| :---------------------- | :---------------------------------------------------------------: | :----------------------: |
+| **Blazblue phenomenon** |       <img src="CAM.jpg" width="250" alt="Futuristic Blue">       |  4K / Cyberpunk / Blue   |
+| **Hello, ACER**         |   <img src="Hello, ACER.jpg" width="250" alt="Minimalist Dark">   |  4K / Minimalis / Dark   |
+| **Anime Aesthetic**     | <img src="anime-aesthetic.png" width="250" alt="Anime Aesthetic"> |   4K / Anime / Nature    |
+| **Retro Wave**          |      <img src="retro-wave.png" width="250" alt="Retro Wave">      | 1080p / Synthwave / Neon |
 
 ---
 
