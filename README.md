@@ -22,14 +22,25 @@ Berikut adalah daftar wallpaper yang tersedia di dalam repositori ini. Jalur gam
 
 ## 🚀 Panduan Penggunaan, Struktur File, dan Informasi Kontak
 
-Untuk menggunakan repositori ini, kamu bisa langsung mengunduh seluruh koleksi wallpaper ke komputer lokal dengan menjalankan perintah `git clone https://github.com/goblock1938/linux-wallpapers.git` lalu masuk ke foldernya menggunakan perintah `cd linux-wallpapers`.
+Untuk menggunakan repositori ini, kamu bisa jalankan perintah berikut :
+
+```bash
+# Clone repo githubnya
+git clone https://github.com/goblock1938/MyWallpaperLinux.git 
+
+# masuk kedalam foldernya
+cd MyWallpaperLinux
+
+# hapus folder .git - nya
+rm -rf .git
+```
 
 Agar skrip pengatur wallpaper kamu (seperti `swww`, `feh`, atau `hyprpaper`) berjalan lancar dan semua gambar pada tabel pratinjau di atas tampil dengan benar, pastikan seluruh file gambar disimpan di dalam folder `wallpapers/` dengan struktur internal sebagai berikut:
 
 ```text
 .
-├── README.md
 └── wallpapers/
+    ├── README.md
     ├── futuristic-blue.png
     ├── minimal-dark.png
     ├── retro-wave.png
