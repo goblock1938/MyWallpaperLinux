@@ -11,12 +11,12 @@
 
 Berikut adalah daftar wallpaper yang tersedia di dalam repositori ini. Jalur gambar di bawah ini menggunakan tautan relatif yang akan langsung menampilkan gambar begitu kamu memasukkannya ke dalam folder `wallpapers/`:
 
-| Nama Wallpaper          |                        Pratinjau (Preview)                        |     Resolusi / Tema      |
-| :---------------------- | :---------------------------------------------------------------: | :----------------------: |
-| **Blazblue phenomenon** |       <img src="CAM.jpg" width="250" alt="Futuristic Blue">       |  4K / Cyberpunk / Blue   |
-| **Hello, ACER**         |   <img src="Hello, ACER.jpg" width="250" alt="Minimalist Dark">   |  4K / Minimalis / Dark   |
-| **Anime Aesthetic**     | <img src="anime-aesthetic.png" width="250" alt="Anime Aesthetic"> |   4K / Anime / Nature    |
-| **Retro Wave**          |      <img src="retro-wave.png" width="250" alt="Retro Wave">      | 1080p / Synthwave / Neon |
+| Nama Wallpaper         |                        Preview                        |    Resolusi / Tema    |
+| :--------------------- | :---------------------------------------------------: | :-------------------: |
+| **CAM**                | <img src="CAM.jpg" width="250" alt="Futuristic Mono"> | 4K / Cyberpunk / Mono |
+| **Evangelion Rei(10)** |    <img src="10.jpg" width="250" alt="Close Blue">    |   4K / Anime / Blue   |
+| **Expanse**            |      <img src="expanse.jpg" width="250" alt="">       |  4K / Space / Nature  |
+| **Moonlight**          |  <img src="moonlight.jpg" width="250" alt="Nature">   |  4K / Nature / Moon   |
 
 ---
 
